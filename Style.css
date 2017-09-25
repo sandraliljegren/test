@@ -1,14 +1,20 @@
 body {
-	background-color: lightSalmon
+	background-color: lightSalmon;
 }
 p {
 	color: white;
 	font-family: Helvetica;
 }
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 h1 {
 	font-size: 20pt;
 	color: white;
 	font-family: Helvetica;
+	text-align: center;
 }
 li {
 	color: white;
