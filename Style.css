@@ -2,24 +2,24 @@ body {
 	background-color: lightGray
 }
 p {
-	font-color: red;
+	color: white;
 	font-family: Helvetica;
 }
 h1 {
 	font-size: 20pt;
-	font-color: black;
+	color: white;
 	font-family: Helvetica;
 }
 li {
-	font-color: red;
+	color: white;
 	font-family: Helvetica;
 }
 .lastli {
-	font-color: red;
+	color: white;
 	font-family: Helvetica;
 	padding-bottom: 20px;
 }
 form {
-	font-color: red;
+	color: white;
 	font-family: Helvetica;
 }
